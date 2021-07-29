@@ -1,6 +1,4 @@
-body {
-    background-color: #dededede;
-}
+
 .flex {
     display: flex;
     flex-direction: column;
@@ -13,4 +11,11 @@ body {
 
 h3 {
     color: red;
+}
+
+img{
+    display: flex;
+    align-items: center;
+    margin: auto;
+    width: 50%;
 }
